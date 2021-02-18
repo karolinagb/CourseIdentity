@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projetos\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj": {}
+    "E:\\projetos\\IdentityCourse\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj": {}
   },
   "projects": {
-    "E:\\projetos\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj": {
+    "E:\\projetos\\IdentityCourse\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projetos\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
+        "projectUniqueName": "E:\\projetos\\IdentityCourse\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
         "projectName": "WebAppIdentity",
-        "projectPath": "E:\\projetos\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
+        "projectPath": "E:\\projetos\\IdentityCourse\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
         "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-        "outputPath": "E:\\projetos\\WebAppIdentity\\WebAppIdentity\\obj\\",
+        "outputPath": "E:\\projetos\\IdentityCourse\\WebAppIdentity\\WebAppIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

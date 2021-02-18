@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "ohP/UOgxwEDrzt+qctFFJuYj4XTJ153mbietz3gakFxkDHUg0wnzNgPpjA1iMuXU0pmdoThy+ygQwVvBCwJ3PQ==",
+  "dgSpecHash": "PIrhEjJ+pPaoKEuqGqO/kRP9XoP72LZzGwygqLb+f1nkPo+ZcbxfL3r8ET/LutL5s7ppLTtfyga5ZOj5GMjNPQ==",
   "success": true,
-  "projectFilePath": "E:\\projetos\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\projetos\\IdentityCourse\\WebAppIdentity\\WebAppIdentity\\WebAppIdentity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.12\\microsoft.aspnetcore.cryptography.internal.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.12\\microsoft.aspnetcore.cryptography.keyderivation.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.12\\microsoft.extensions.configuration.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.12\\microsoft.extensions.configuration.abstractions.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.12\\microsoft.extensions.configuration.binder.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.12\\microsoft.extensions.dependencyinjection.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.12\\microsoft.extensions.dependencyinjection.abstractions.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.12\\microsoft.extensions.identity.core.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.logging\\3.1.12\\microsoft.extensions.logging.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.12\\microsoft.extensions.logging.abstractions.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.options\\3.1.12\\microsoft.extensions.options.3.1.12.nupkg.sha512",
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.12\\microsoft.extensions.primitives.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
